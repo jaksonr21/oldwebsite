@@ -1,1 +1,1 @@
-This is my jakson website
+Welcome to my (Jakson's) website.
