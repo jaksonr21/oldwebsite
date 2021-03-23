@@ -1,0 +1,17 @@
+h1 {
+    outline-color: blue;
+    border-width: 2px;
+    border-color: black;
+    border-style: dotted;
+    background-color: chartreuse;
+    border-bottom-right-radius: 5px;
+    box-shadow: chocolate;
+    border-right-style: outset;
+    border-image-source: initial;
+    font: larger;
+}
+
+p {
+    font: bolder;
+    font-family: "Comic Sans", monospace;
+}
