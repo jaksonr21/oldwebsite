@@ -35,3 +35,7 @@ button {
     border-radius: 16px;
     border-style: inset;
 }
+
+.math {
+    width: 100%;
+}
