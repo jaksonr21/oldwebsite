@@ -1,4 +1,4 @@
-h1 {
+.wepageheader {
     outline-color: blue;
     border-width: 2px;
     border-color: black;
@@ -42,4 +42,5 @@ button {
 
 .math {
     width: 100%;
+    height: 100%;
 }
