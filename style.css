@@ -15,3 +15,7 @@ p {
     font: bolder;
     font-family: "Comic Sans", monospace;
 }
+
+div {
+    width: auto;
+}
