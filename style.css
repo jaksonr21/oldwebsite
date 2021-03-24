@@ -2,11 +2,10 @@ h1 {
     outline-color: blue;
     border-width: 2px;
     border-color: black;
-    border-style: dotted;
+    border-style: double;
     background-color: chartreuse;
-    border-bottom-right-radius: 5px;
+    border-radius: 2px;
     box-shadow: chocolate;
-    border-right-style: outset;
     border-image-source: initial;
     font: larger;
 }
@@ -18,4 +17,21 @@ p {
 
 div {
     width: auto;
+}
+
+button:hover {
+    background-color: black;
+
+}
+
+button {
+    display: inline-block;
+    padding: 20px;
+}
+
+.earthwindandfire {
+    border-width: 3px;
+    border-color: white;
+    border-radius: 16px;
+    border-style: inset;
 }
