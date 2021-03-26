@@ -1,0 +1,41 @@
+/* CSS Document */
+.main {
+	width:60vw;
+	margin:auto;
+	background-color:white;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:5px;
+	padding-bottom:20px;
+	margin-top:50px;
+	border-radius:2px;
+}
+
+.main:hover {
+	background-color:black;
+	color: white;
+}
+
+.firstblog:hover {
+	background-color:blue;
+}
+
+.secondblog:hover {
+	background-color:yellow;
+}
+
+.thirdblog:hover {
+	background-color:red;
+}
+
+h1 {
+	margin-top:20px
+}
+
+
+
+body {
+	background-image: url(pictures/memphis-mini-dark.png)
+		
+}
+
