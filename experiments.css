@@ -1,4 +1,19 @@
 /* CSS Document */
+
+@font-face {
+	font-family:"Louis George Cafe";
+	src:url("font/Louis George Cafe.ttf")
+}
+
+html {
+	font-family:"Louis George Cafe";
+}
+
+h1 {
+	font-family: "chantal", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
 .main {
 	width:60vw;
 	margin:auto;
@@ -54,4 +69,8 @@ button {
 
 .icecream:hover {
 	background-image:url("pictures/icecream.jpg");
+}
+
+font {
+	
 }
